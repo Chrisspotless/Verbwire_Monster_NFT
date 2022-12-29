@@ -1,7 +1,7 @@
 # Running MonsterNFT Verbwire Project
 Project Demo
 
-![Demo App](https://paper-attachments.dropboxusercontent.com/s_B42FAAA4F25C8A6D7C6B09B1ED8CCB9DE1E12FB0611374FA79B74DE5F605B3A8_1672230086773_Monsternft_overview.gif)
+![Demo App](./screenshot/zero.gif)
 
 ## Technologies Used:
 - [Metamask](https://community.metamask.io/t/new-login-for-extension/4445)
